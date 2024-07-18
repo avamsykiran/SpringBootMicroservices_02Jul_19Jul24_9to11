@@ -1,0 +1,4 @@
+spring.application.name=address-book-on-spring-boot
+con.str=jdbc:mysql://localhost:3306/adbdb
+db.user=root
+db.pwd=root
